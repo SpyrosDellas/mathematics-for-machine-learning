@@ -1,2 +1,1 @@
-### Jupyter Notebooks developed for "Intro to Data Science" by Udacity
-
+### Jupyter Notebooks developed for "Mathematics for Machine Learning Specialization" by Imperial College London, Coursera
