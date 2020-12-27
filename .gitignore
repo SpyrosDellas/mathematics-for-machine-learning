@@ -1,0 +1,3 @@
+# Ignore IPython checkpoints
+.ipynb_checkpoints/
+Week*/
